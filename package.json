@@ -1,0 +1,16 @@
+{
+  "name": "cricket_team",
+  "version": "1.0.0",
+  "description": "Task for Pratice",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "SDS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
